@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Pharmalix AI Medic",
+  "description": "An AI-powered platform for instant medical triage, connecting users with doctors, analyzing lab reports, and facilitating donations for medical aid.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
